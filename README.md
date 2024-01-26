@@ -1,4 +1,4 @@
-## BASIC TYPESCRIPT TO-DO LIST 
+# BASIC TYPESCRIPT TO-DO LIST 
 
 An incredilby simple but cool looking to-do list application that demonstrates basic functionality of TypeScript. 
 
